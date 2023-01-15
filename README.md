@@ -15,6 +15,13 @@
 </p>
 
 
+<h3 align="left">Languages and Tools:</h3>
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+
+__________________________________________________________________________________________________________________________________
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=probertols&" alt="probertols" /></p>
 
