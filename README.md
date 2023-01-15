@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript / React**
 
-- 👨‍💻 All of my projects are available at [github.com/probertols](github.com/probertols)
+- 👨‍💻 All of my projects are available at [github.com/probertols](www.github.com/probertols)
 
 - 📫 How to reach me **paulomd32@gmail.com**
 
