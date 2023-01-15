@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
  </p>
-_________________________________________________________________________________________________________________
+____________________________________________________________________________________________
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=probertols&" alt="probertols" /></p>
 
