@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/probertols
 
-- 💬 Ask me about **HTML, CSS, Javascript& React**
+- 💬 Ask me about **HTML, CSS, Javascript & React**
 
 - 📫 How to reach me **paulomd32@gmail.com**
 
