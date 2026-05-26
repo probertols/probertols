@@ -1,11 +1,9 @@
-<h1 align="center">Hello there 👋, I'm Paulo Roberto</h1>
+<h1 align="center">Hi, I'm Paulo Roberto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=probertols&label=Profile%20views&color=0e75b6&style=flat" alt="probertols" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at https://github.com/probertols
-
-- 💬 Ask me about **HTML, CSS, Javascript, React & Node**
 
 - 📫 How to reach me **paulomd32@gmail.com**
 
