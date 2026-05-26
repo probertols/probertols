@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Paulo Roberto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=probertols&label=Profile%20views&color=0e75b6&style=flat" alt="probertols" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at https://github.com/probertols
 
 - 📫 How to reach me **paulomd32@gmail.com**
